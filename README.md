@@ -18,20 +18,15 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## 📊 Статистика GitHub
+## 📊 GitHub Активность
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Resurection1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Resurection1&theme=dark&hide_border=true)
 
 </div>
 
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Resurection1&theme=github_dark)
-
-</div>
 
 ## 📫 Контакты
 
