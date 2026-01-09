@@ -18,10 +18,13 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Resurection1&layout=compact&theme=dark&count_private=true)
+
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Resurection1&show_icons=true&theme=dark&count_private=true)
+
 ## 📫 Контакты
 
 - **Телефон**: +7 (916) 219-06-95 
 - **Email**: [mih.podzorov@gmail.com](mailto:mih.podzorov@gmail.com)
 - **Telegram**: [https://t.me/mishish1](https://t.me/mishish1)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Resurection1&show_icons=true&theme=dark&count_private=true)
