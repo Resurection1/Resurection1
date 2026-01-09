@@ -20,8 +20,18 @@
 
 ## 📊 Статистика GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Resurection1&theme=dark)](https://git.io/streak-stats)
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Resurection1&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Resurection1&theme=github_dark)
+
+</div>
 
 ## 📫 Контакты
 
